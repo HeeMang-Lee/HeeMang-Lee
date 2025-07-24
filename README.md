@@ -28,14 +28,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-2E8B57?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF7F50?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-## ✍ TIL
+## ✍🏻 TIL
 [![Inblog](https://img.shields.io/badge/Inblog-000000?style=for-the-badge&logo=readme&logoColor=white)](https://thishope.inblog.io/)
