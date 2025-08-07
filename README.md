@@ -16,7 +16,7 @@
 - [**TagTaskScheduler**](https://github.com/HeeMang-Lee/tagtaskscheduler) : 스케줄러 프로젝트
 - [**NewSpeedTeam19-backend**](https://github.com/NewSpeedTeam19/backend) : 뉴스피드 팀프로젝트
 - [**outsourcing**](https://github.com/OutSourcingTeam5/outsourcing) : 아웃소싱 팀프로젝트 (배달 앱 백엔드)
-- **nullnullTicket** : 타켓팅 사이트 팀프로젝트 (동시성 제어)
+- [**nullnullTicket**](https://github.com/pokerbearkr/nullnullTicket) : 타겟팅 사이트 팀프로젝트 (동시성 제어)
 - **CS25** : AI와 함께하는 CS 문제 메일 구독 서비스(KDT 최우수 프로젝트)
 
 ---
