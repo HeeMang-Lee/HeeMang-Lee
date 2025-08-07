@@ -13,7 +13,7 @@
 - [**commit5**](https://github.com/commit5team/commit5) : 팀 소개 프로젝트
 - [**Calculator**](https://github.com/HeeMang-Lee/Calculator) : 계산기 프로젝트
 - [**Kiosk**](https://github.com/HeeMang-Lee/KioskProject) : 키오스크 프로젝트
-- **TagTaskScheduler** : 스케줄러 프로젝트
+- [**TagTaskScheduler**](https://github.com/HeeMang-Lee/tagtaskscheduler) : 스케줄러 프로젝트
 - **NewSpeedTeam19-backend** : 뉴스피드 팀프로젝트
 - **outsourcing** : 아웃소싱 팀프로젝트 (배달 앱 백엔드)
 - **nullnullTicket** : 타켓팅 사이트 팀프로젝트 (동시성 제어)
