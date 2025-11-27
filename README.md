@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeMang-Lee&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHeeMang)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
