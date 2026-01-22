@@ -34,4 +34,3 @@
 ---
 
 ## ✍🏻 TIL
-[![Inblog](https://img.shields.io/badge/Inblog-000000?style=for-the-badge&logo=readme&logoColor=white)](https://thishope.inblog.io/)
